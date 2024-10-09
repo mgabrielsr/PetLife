@@ -245,7 +245,7 @@ footer p a {
     }
 
     .botao, .botao-transparente {
-        margin-bottom: 16px;
+        padding: 12px 24px;
     }
 
     .absolute {
