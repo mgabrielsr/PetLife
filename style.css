@@ -245,8 +245,9 @@ footer p a {
     }
 
     .botao, .botao-transparente {
+        display:flex;
         padding: 12px 24px;
-        margin-right: 10px;
+        justify-content: center;
     }
 
     .absolute {
